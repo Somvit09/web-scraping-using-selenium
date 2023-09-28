@@ -21,7 +21,7 @@ Clone this repository to your local machine:
    python get_product_details.py
 
 
-#####Notes
+##### Notes
 
 The script uses Selenium with Chrome WebDriver to automate web interactions. Make sure you have Chrome installed and the WebDriver included in the project directory.
 
@@ -31,7 +31,7 @@ You can customize the URL in the script to search for different products on Amaz
 
 Please be aware of Amazon's scraping policies and use this script responsibly and in compliance with Amazon's terms of service.
 
-######Objective
+###### Objective
 
 The objective of the provided Python script, get_product_details.py, is to scrape product details from Amazon India based on a predefined search query and save the scraped data into a CSV file. Here's a breakdown of its objectives:
 
